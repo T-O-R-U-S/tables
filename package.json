@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/node": "^16.3.2"
+  },
+  "scripts": {
+    "main":"tsc index.ts && node index.js"
+  },
+  "name": "tables",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
